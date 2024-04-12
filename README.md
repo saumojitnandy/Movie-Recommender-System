@@ -3,14 +3,13 @@ A movie recommendation system in Python is a program that suggests movies to use
 
 
 Project Requirements:
-
-Python < 3.10
-Numpy
-Pandas
-Scikit-Learn
-NLTK
-Streamlit
-Pickle
+1. Python < 3.10
+2. Numpy
+3. Pandas
+4. Scikit-Learn
+5. NLTK
+6. Streamlit
+7. Pickle
 
 
 Here I attached some screenshots to showing final output: 
