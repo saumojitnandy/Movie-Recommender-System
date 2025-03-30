@@ -1,7 +1,6 @@
 # Movie-Recommender-System
 A movie recommendation system in Python is a program that suggests movies to users based on their preferences, past viewing history, or similarity to other users' tastes. It typically involves techniques like collaborative filtering, content-based filtering, or hybrid approaches. These systems analyze large datasets of movies and user interactions to generate personalized recommendations. Python libraries such as Pandas, NumPy, and scikit-learn are commonly used for data processing and machine learning algorithms. The system can be deployed as a standalone application, integrated into streaming platforms, or used in e-commerce websites to enhance user experience and engagement.
 
-
 Project Requirements:
 1. Python < 3.10
 2. Numpy
